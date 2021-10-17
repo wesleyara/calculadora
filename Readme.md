@@ -1,4 +1,5 @@
-<img src="assets/captura.png">
+<img style="width: 750px;" src="https://user-images.githubusercontent.com/89321125/137647051-0e4fbf20-0d23-4837-bac9-b939daa43dce.PNG">
+
 <center><h1>Calculadora</h1></center>
 
 ## Motivação
